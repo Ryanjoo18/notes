@@ -1,1 +1,1 @@
-# jc-notes
+# Junior College notes
